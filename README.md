@@ -1,5 +1,5 @@
 # 🫅🏻 MONAQ
-This is the official implementation of the _MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices_ paper [[arXiv](https://arxiv.org/abs/2505.10607)] [[Poster]].
+This is the official implementation of the _MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices_ paper [[arXiv](https://arxiv.org/abs/2505.10607)] [[Poster](static/pdfs/poster.pdf)].
 <img width="1243" alt="image" src="https://github.com/user-attachments/assets/783f8a95-4e55-446a-9b53-d64f6cb9f213" />
 
 ## Abstract   
