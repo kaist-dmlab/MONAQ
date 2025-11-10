@@ -8,13 +8,12 @@ The growing use of smartphones and IoT devices necessitates efficient time-serie
 
 ## Citation
 ```bibtex 
-@misc{trirat2025monaq,
-      title={MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices}, 
-      author={Patara Trirat and Jae-Gil Lee},
-      year={2025},
-      eprint={2505.10607},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2505.10607}, 
+@inproceedings{trirat-lee-2025-monaq,
+    title = "{MONAQ}: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices",
+    author = "Trirat, Patara  and
+      Lee, Jae-Gil",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    year = "2025",
+    pages = "16922--16950",
 }
 ```      
